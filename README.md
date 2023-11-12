@@ -1,7 +1,7 @@
 
 <center>
-Hi, I’m @fonzxy
-I’m very interested in Coding<33
+Hi, I’m @fonzxy. <br>
+I’m very interested in Coding<33 <br>
 And I’m currently learning Web development and C#
 </center>
 
