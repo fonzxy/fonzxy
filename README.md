@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @fonzxy
-- 👀 I’m interested in Cats...
-- 🌱 I’m currently learning Web development...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+<center>
+Hi, I’m @fonzxy
+I’m very interested in Coding<33
+And I’m currently learning Web development and C#
+</center>
 
 <!---
 fonzxy/fonzxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
