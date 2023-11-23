@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-<i class="material-icons" style="font-size:16px;color:grey;">star</i>
+<span class="material-symbols-outlined"> star </span>
 <center>
   
 Hi, I’m @fonzxy. <br>
